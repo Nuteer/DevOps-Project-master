@@ -5,9 +5,10 @@ DevOps is the combination of cultural methods, practices, and tools that increas
 ### Purpose:
 By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - git
-- Jenkins -- Doing (12/02)
-- Maven -- Doing (12/03)
-- Ansible -- Doing (12/04)
-- Docker & -- Doing (12/05)
-- Kubernetes -- Doing (12/06)
+- Jenkins 
+- Maven
+- Ansible
+- Docker
+- Kubernetes
+- Tomcat
 
